@@ -1,0 +1,11 @@
+'amount_approved'=>array(
+		 'description'=>'initial amount approved',
+		 'type' => 'varchar',
+		 'length' => 100,
+		 'not null' => TRUE,
+		),
+	   'approval_date'=>array(
+		 'description'=>'The Unix timestamp date when amound is approved',
+		 'type'=>'int',
+		 'not null' => TRUE,
+        ),

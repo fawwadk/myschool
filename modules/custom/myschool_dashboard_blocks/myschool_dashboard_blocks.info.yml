@@ -1,0 +1,5 @@
+name: My School dashboard blocks
+type: module
+description: Custom dashboard blocks
+package: custom
+core: '8.x'

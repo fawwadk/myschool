@@ -1,0 +1,8 @@
+hello_world:
+  version: 1.x
+  js:
+    js/myscript.js: {}
+  dependencies:
+    - core/jquery
+    - core/drupal
+    - core/jquery.once
